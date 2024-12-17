@@ -1,0 +1,4 @@
+#To install the all dependencies
+npm i
+#To run the execution of all scripts
+npm run allureNoDashboard
